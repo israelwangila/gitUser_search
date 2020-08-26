@@ -8,7 +8,7 @@ A website where users may enter a GitHub username into a form, submit it, and se
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
 
 ---
-#### This is a [Link](https://github.com/ramza007/Githubclone/) to my live site on GitHub where a repository of my work is.
+#### This is a [Link](https://github.com/israelwangila/Githubclone/) to my live site on GitHub where a repository of my work is.
 ---
 
 #### Technologies used to make the **GitHubClone App** are;
