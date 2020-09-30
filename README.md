@@ -29,7 +29,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Feel free to explore my other repositories!.
 * Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/). For End To End Tests
 
----
+### screenshot
+
+see the project folder
+
 Copyright and Licence are under [**MIT**]
  
  ©israelwangila| 2020
